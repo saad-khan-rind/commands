@@ -21,11 +21,11 @@ A secure shell protocol for accessing remote servers and executing commands over
 # tar:
 A utility for archiving files and directories into a single file, often used for backup or distribution purposes. Supports compression and encryption options.
 
-# awk:
-A programming language for processing text and data, useful for writing scripts to automate tasks, such as data manipulation, reporting
+# screen:
+This tool is used to manage multiple terminal sessions in a single window. It allows users to switch between different sessions and detach from them without losing any work.
 
 # diff: 
-displays the differences between two files.
+This command displays the differences between two files.
 
 # top: 
 A real-time system monitor that displays information about the system's resource usage and processes.
