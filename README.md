@@ -24,9 +24,11 @@ A utility for archiving files and directories into a single file, often used for
 # awk:
 A programming language for processing text and data, useful for writing scripts to automate tasks, such as data manipulation, reporting
 
-# diff: displays the differences between two files.
+# diff: 
+displays the differences between two files.
 
-# top: a real-time system monitor that displays information about the system's resource usage and processes.
+# top: 
+A real-time system monitor that displays information about the system's resource usage and processes.
 
 
 # Github Commands
